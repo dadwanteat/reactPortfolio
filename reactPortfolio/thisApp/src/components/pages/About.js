@@ -7,22 +7,17 @@ function About() {
       <br/>
       <h1>About Page</h1>
       <br/>
-      <p>
-        Nunc pharetra finibus est at efficitur. Praesent sed congue diam. Integer gravida dui
-        mauris, ut interdum nunc egestas sed. Aenean sed mollis diam. Nunc aliquet risus ac finibus
-        porta. Nam quis arcu non lectus tincidunt fermentum. Suspendisse aliquet orci porta quam
-        semper imperdiet. Praesent euismod mi justo, faucibus scelerisque risus cursus in. Sed
-        rhoncus mollis diam, sit amet facilisis lectus blandit at.
-      </p>
+      <h4>
+        Robert is brand new to the industry, but very excited to get started. 
+        This Web-Portfolio showcases some of the things he's accomplished since he enrolled in Web-Development bootcamp. 
+        This course was training to certify and become successful as a Full-Stack Web-Developer using an array of bleeding-edge technologies 
+        to design and implement a number of different kinds of websites, applications and databases. 
+      </h4>
       <br/>
       <br/>
-      <a color="black" href="https://github.com/dadwanteat">|----->>     Visit Robert's linkedin!</a><br/>
+      <a color="black" href="https://github.com/dadwanteat">|-----     Visit Robert's linkedin!</a><br/>
       <br/>
-      <a color="black" href="https://www.linkedin.com/in/robert-dalton-21623013b/">|----------->>     Visit Robert's github!</a>
-      <br/>
-      <br/>
-      <br/>
-      <br/>
+      <a color="black" href="https://www.linkedin.com/in/robert-dalton-21623013b/">|-----------     Visit Robert's github!</a>
       <br/>
       <br/>
       <br/>

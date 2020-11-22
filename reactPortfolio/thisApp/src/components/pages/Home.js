@@ -11,10 +11,10 @@ function Home() {
       <br/>
       <br/>
       <div className="logo">
-          <img src={Img} width="500" alt="Live long and Robert"/>
-          <h2 className="text-right">||  All the coolest things about Robert's professional life in one place...         Check it out!  ||<br/></h2>
+          <img src={Img}  width="500" alt="Live long and Robert"/>
+          <h2 className="text-right">||  All the coolest things about Robert's professional life in one place...         Check it out!  ||</h2>
       </div>
-      
+      <br/>
     </div>
   );
 }

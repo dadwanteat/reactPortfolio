@@ -10,7 +10,7 @@ function Learn() {
       <h2 className="text-center">Want to get a hold of Robert?</h2>
       <br/>
       <br/>
-      <p className="text-center" href="mailto:dalton.robertw@gmail.com">dalton.robertw@gmail.com</p>
+      <p className="text-center">dalton.robertw@gmail.com</p>
       <br/>
       <p className="text-center">
         503-410-1881

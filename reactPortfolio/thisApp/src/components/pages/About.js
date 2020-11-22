@@ -1,8 +1,9 @@
 import React from "react";
+import ImgB from './denimbackground.png';
 
 function About() {
   return (
-    <div>
+    <div style={{ backgroundImage:`url(${ImgB})` }}>
       <br/>
       <h1>About Page</h1>
       <br/>

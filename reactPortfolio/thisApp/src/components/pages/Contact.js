@@ -1,10 +1,11 @@
 import React from "react";
 import { Link, Route } from "react-router-dom";
 import Learn from "./Learn";
+import ImgB from './denimbackground.png';
 
 function Contact(props) {
   return (
-    <div>
+    <div style={{ backgroundImage:`url(${ImgB})` }}>
       <br/>
       <h1>Contact Page</h1>
       <br/>

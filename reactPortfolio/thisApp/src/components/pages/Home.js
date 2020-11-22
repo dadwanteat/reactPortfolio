@@ -12,7 +12,7 @@ function Home() {
       <br/>
       <div className="logo">
           <img src={Img} width="500" alt="Live long and Robert"/>
-          <h2 className="text-right">All the coolest things about Robert's professional life in one place...</h2>
+          <h2 className="text-right">||  All the coolest things about Robert's professional life in one place...         Check it out!  ||<br/></h2>
       </div>
       
     </div>

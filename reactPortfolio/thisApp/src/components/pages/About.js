@@ -14,6 +14,25 @@ function About() {
         semper imperdiet. Praesent euismod mi justo, faucibus scelerisque risus cursus in. Sed
         rhoncus mollis diam, sit amet facilisis lectus blandit at.
       </p>
+      <br/>
+      <br/>
+      <a color="black" href="https://github.com/dadwanteat">|----->>     Visit Robert's linkedin!</a><br/>
+      <br/>
+      <a color="black" href="https://www.linkedin.com/in/robert-dalton-21623013b/">|----------->>     Visit Robert's github!</a>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
     </div>
   );
 }

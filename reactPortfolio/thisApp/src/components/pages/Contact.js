@@ -9,24 +9,26 @@ function Contact(props) {
       <br/>
       <h1>Contact Page</h1>
       <br/>
-      <p>
-        Integer cursus bibendum sem non pretium. Vestibulum in aliquet sem, quis molestie urna.
-        Aliquam semper ultrices varius. Aliquam faucibus sit amet magna a ultrices. Aenean
-        pellentesque placerat lacus imperdiet efficitur. In felis nisl, luctus non ante euismod,
-        tincidunt bibendum mi. In a molestie nisl, eu sodales diam. Nam tincidunt lacus quis magna
-        posuere, eget tristique dui dapibus. Maecenas fermentum elementum faucibus. Quisque nec
-        metus vestibulum, egestas massa eu, sollicitudin ipsum. Nulla facilisi. Sed ut erat ligula.
-        Nam tincidunt nunc in nibh dictum ullamcorper. Class aptent taciti sociosqu ad litora
-        torquent per conubia nostra, per inceptos himenaeos. Etiam ornare rutrum felis at rhoncus.
-        Etiam vel condimentum magna, quis tempor nulla.
-      </p>
-      <Link to={`${props.match.url}/learn`} role="button" className="btn btn-link">
+      <h5>
+        If you have some kind of idea, or question, or job oppurtunity, I'd love to hear from you! I'll always email back promply, and if I don't return your call imediately, I will call back! 
+        Just leave a voicemail so I know why you called. If you'd like to see my resume, please click on the 'About' link on the navbar above. If you'd like to see projects I've worked on so far, 
+        click on the 'Projects' link on the navbar above. Otherwise be safe out there, and maybe our professional lives will cross again someday!
+      </h5>
+      <br/>
+      <br/>
+      <Link to={`${props.match.url}/learn`} role="button" color="black" className="btn btn-link">
         Show contact info
       </Link>{" "}
-      <Link to="/contact" role="button" className="btn btn-link">
+      <Link to="/contact" role="button" color="black" className="btn btn-link">
         Hide contact info
       </Link>
       <Route exact path={`${props.match.url}/learn`} component={Learn} />
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
     </div>
   );
 }

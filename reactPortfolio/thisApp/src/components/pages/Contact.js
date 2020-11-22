@@ -5,7 +5,9 @@ import Learn from "./Learn";
 function Contact(props) {
   return (
     <div>
+      <br/>
       <h1>Contact Page</h1>
+      <br/>
       <p>
         Integer cursus bibendum sem non pretium. Vestibulum in aliquet sem, quis molestie urna.
         Aliquam semper ultrices varius. Aliquam faucibus sit amet magna a ultrices. Aenean
@@ -18,10 +20,10 @@ function Contact(props) {
         Etiam vel condimentum magna, quis tempor nulla.
       </p>
       <Link to={`${props.match.url}/learn`} role="button" className="btn btn-link">
-        Learn More
+        Show contact info
       </Link>{" "}
       <Link to="/contact" role="button" className="btn btn-link">
-        Learn Less
+        Hide contact info
       </Link>
       <Route exact path={`${props.match.url}/learn`} component={Learn} />
     </div>
